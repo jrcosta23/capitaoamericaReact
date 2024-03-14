@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+  align-items: center;
+
+}
+
+.menu img{
+    right: 10%;
+    width:  10%;
+}

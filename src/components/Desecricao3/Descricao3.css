@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+
+
+.robo img {
+    width: 30%;
+    height: 30%;
+
+
+}
+
+.robo {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Madimi One", sans-serif !important;
+}
+
+
+p{
+font-size: 40px;
+}

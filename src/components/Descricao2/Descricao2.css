@@ -1,0 +1,16 @@
+.Empresa img{
+    width: 20%;
+    height: 30%;
+
+}
+
+
+.Empresa {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+body{
+ border-color: brown;
+}

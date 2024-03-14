@@ -1,0 +1,16 @@
+.perfis {
+   display:  flex;
+   justify-content: space-around;
+}
+
+.perfis div img{
+
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}
+
+.t-center{
+    text-align: center;
+}
